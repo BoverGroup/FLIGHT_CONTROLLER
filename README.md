@@ -1,4 +1,7 @@
 # FLIGHT_CONTROLLER LEVX 1.0
+![image](https://github.com/BoverGroup/Flight_Controller_LevX_1.0/assets/144978109/94b64c32-c19a-4bde-b84f-e80ea96e01a9)
+
+![image](https://github.com/BoverGroup/Flight_Controller_LevX_1.0/assets/144978109/5eba104a-a45f-45a9-86fd-9712eea83808)
 
 # Descripción
 
